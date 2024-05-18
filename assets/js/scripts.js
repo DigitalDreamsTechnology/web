@@ -11,5 +11,5 @@ document.getElementById("googlelink").addEventListener("click", function() {
     window.open("https://go.hotmart.com/A91234007O?dp=1 ", "_blank"); // Cambia "otra_pagina.html" por la URL de la página a la que deseas redirigir
 });
 document.getElementById("nexuslink").addEventListener("click", function() {
-    window.open("https://go.hotmart.com/A91234007O?dp=1 ", "_blank"); // Cambia "otra_pagina.html" por la URL de la página a la que deseas redirigir
+    window.open("https://https://go.hotmart.com/U93156909G", "_blank"); // Cambia "otra_pagina.html" por la URL de la página a la que deseas redirigir
 });
